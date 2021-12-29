@@ -6,7 +6,6 @@ let avatar = age/karma;
 let aham = avatar/age;
 document.getElementById("avts").innerHTML = Math.ceil(avatar);
 document.getElementById("aham").innerHTML = aham;
-alert(aham);
 var end = performance.now();
 var wpn = end-start;
 alert("Calculated in "+wpn+" ms 😎");
