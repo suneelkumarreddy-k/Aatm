@@ -1,4 +1,4 @@
-function sft() {
+function ac() {
 var start = performance.now();
 let karma = 3;
 let age = document.getElementById("age").value;
